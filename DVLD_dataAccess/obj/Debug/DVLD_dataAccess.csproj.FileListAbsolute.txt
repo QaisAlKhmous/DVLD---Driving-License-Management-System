@@ -1,0 +1,6 @@
+C:\Users\qaisk\source\repos\DVLD_dataAccess\bin\Debug\DVLD_dataAccess.dll
+C:\Users\qaisk\source\repos\DVLD_dataAccess\bin\Debug\DVLD_dataAccess.pdb
+C:\Users\qaisk\source\repos\DVLD_dataAccess\obj\Debug\DVLD_dataAccess.csproj.AssemblyReference.cache
+C:\Users\qaisk\source\repos\DVLD_dataAccess\obj\Debug\DVLD_dataAccess.csproj.CoreCompileInputs.cache
+C:\Users\qaisk\source\repos\DVLD_dataAccess\obj\Debug\DVLD_dataAccess.dll
+C:\Users\qaisk\source\repos\DVLD_dataAccess\obj\Debug\DVLD_dataAccess.pdb

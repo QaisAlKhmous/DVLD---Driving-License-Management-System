@@ -1,0 +1,9 @@
+C:\Users\qaisk\source\repos\DVLD_businessLogic\bin\Debug\DVLD_businessLogic.dll
+C:\Users\qaisk\source\repos\DVLD_businessLogic\bin\Debug\DVLD_businessLogic.pdb
+C:\Users\qaisk\source\repos\DVLD_businessLogic\bin\Debug\DVLD_dataAccess.dll
+C:\Users\qaisk\source\repos\DVLD_businessLogic\bin\Debug\DVLD_dataAccess.pdb
+C:\Users\qaisk\source\repos\DVLD_businessLogic\obj\Debug\DVLD_businessLogic.csproj.AssemblyReference.cache
+C:\Users\qaisk\source\repos\DVLD_businessLogic\obj\Debug\DVLD_businessLogic.csproj.CoreCompileInputs.cache
+C:\Users\qaisk\source\repos\DVLD_businessLogic\obj\Debug\DVLD_bus.F50C5FE8.Up2Date
+C:\Users\qaisk\source\repos\DVLD_businessLogic\obj\Debug\DVLD_businessLogic.dll
+C:\Users\qaisk\source\repos\DVLD_businessLogic\obj\Debug\DVLD_businessLogic.pdb

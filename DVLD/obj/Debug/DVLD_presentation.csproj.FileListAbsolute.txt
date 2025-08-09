@@ -1,0 +1,14 @@
+C:\Users\qaisk\source\repos\DVLD\bin\Debug\DVLD.exe.config
+C:\Users\qaisk\source\repos\DVLD\bin\Debug\DVLD.exe
+C:\Users\qaisk\source\repos\DVLD\bin\Debug\DVLD.pdb
+C:\Users\qaisk\source\repos\DVLD\bin\Debug\DVLD_businessLogic.dll
+C:\Users\qaisk\source\repos\DVLD\bin\Debug\DVLD_dataAccess.dll
+C:\Users\qaisk\source\repos\DVLD\bin\Debug\DVLD_businessLogic.pdb
+C:\Users\qaisk\source\repos\DVLD\bin\Debug\DVLD_dataAccess.pdb
+C:\Users\qaisk\source\repos\DVLD\obj\Debug\DVLD_presentation.csproj.AssemblyReference.cache
+C:\Users\qaisk\source\repos\DVLD\obj\Debug\DVLD.Properties.Resources.resources
+C:\Users\qaisk\source\repos\DVLD\obj\Debug\DVLD_presentation.csproj.GenerateResource.cache
+C:\Users\qaisk\source\repos\DVLD\obj\Debug\DVLD_presentation.csproj.CoreCompileInputs.cache
+C:\Users\qaisk\source\repos\DVLD\obj\Debug\DVLD_pre.587247AB.Up2Date
+C:\Users\qaisk\source\repos\DVLD\obj\Debug\DVLD.exe
+C:\Users\qaisk\source\repos\DVLD\obj\Debug\DVLD.pdb

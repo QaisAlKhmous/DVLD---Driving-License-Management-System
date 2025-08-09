@@ -1,0 +1,10 @@
+C:\Users\qaisk\source\repos\DSP\bin\Debug\DSP.exe.config
+C:\Users\qaisk\source\repos\DSP\bin\Debug\DSP.exe
+C:\Users\qaisk\source\repos\DSP\bin\Debug\DSP.pdb
+C:\Users\qaisk\source\repos\DSP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\qaisk\source\repos\DSP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\qaisk\source\repos\DSP\obj\Debug\DSP.csproj.AssemblyReference.cache
+C:\Users\qaisk\source\repos\DSP\obj\Debug\DSP.csproj.CoreCompileInputs.cache
+C:\Users\qaisk\source\repos\DSP\obj\Debug\DSP.csproj.Up2Date
+C:\Users\qaisk\source\repos\DSP\obj\Debug\DSP.exe
+C:\Users\qaisk\source\repos\DSP\obj\Debug\DSP.pdb
